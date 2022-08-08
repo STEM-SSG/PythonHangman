@@ -104,6 +104,13 @@ HANGMAN = [
 * * * G A M E O V E R * * *
 
 ''' 
+
+'''
+Develop a list of words that should all be strings using only alphabetic characters.
+No numerals, no special characters, no spaces.
+While limiting the scope of possibile words, it does help with defensive
+programming methods to be discussed later. 
+'''
 ]
 
 WORDS = ['Brisbane', 'Caloundra', 'Nambour', 'Gympie', 'Tiaro', 'Maryborough',
